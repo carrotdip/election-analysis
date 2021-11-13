@@ -14,7 +14,16 @@
 ![text](https://github.com/carrotdip/election-analysis/blob/a41f4b02774aa1226af08ec0a8ba579e3b50bf04/Screen%20Shot%202021-11-12%20at%209.37.45%20PM.png)
 ### The percentages of the county votes were also calculated with the same process as previously described to determine the county with the highest turnout.
 ![text](https://github.com/carrotdip/election-analysis/blob/076347881ad2d17832e96a41168d07ee5ce7bcb0/Screen%20Shot%202021-11-12%20at%209.39.38%20PM.png)
-### The analysis of the data set showed that there were a total of 369,711 votes cast. The complete list of candidates included Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. Charles Casper Stockham received 85,213 votes, which was 23.0% of the total votes. Diana DeGette received 272,892 votes, making up 73.8% of the total votes. And finally, Raymon Anthony Doane received 11,606 votes, or 3.1% of the total votes. The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. The complete list of counties included Jefferson, Denver, and Arapahoe. The Jefferson county had a total vote count of 38,855 votes, which made up 10.5% of the total votes. Denver county submitted a total of 306,055 votes, or 82.8% of the toal votes. Finally, Arapahoe had 24,801 votes, which made up 6.7% of the total votes. Denver county had the highest turnout in his congressional election.
+- The analysis of the data set showed that there were a total of 369,711 votes cast. The complete list of candidates included Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
+- Charles Casper Stockham received 85,213 votes, which was 23.0% of the total votes. 
+- Diana DeGette received 272,892 votes, making up 73.8% of the total votes. 
+- And finally, Raymon Anthony Doane received 11,606 votes, or 3.1% of the total votes. 
+- The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
+- The complete list of counties included Jefferson, Denver, and Arapahoe. 
+- The Jefferson county had a total vote count of 38,855 votes, which made up 10.5% of the total votes. 
+- Denver county submitted a total of 306,055 votes, or 82.8% of the toal votes. 
+- Finally, Arapahoe had 24,801 votes, which made up 6.7% of the total votes. 
+- Denver county had the highest turnout in his congressional election.
 
 ## Resources
 - Data source: election_results.csv
