@@ -2,8 +2,8 @@
 
 ## Project Overview
 ### The purpose of this project was to complete the election audit of a local congressional election. The committee was interested in the determination of the winning candidate as well as the analysis of the county voting data. First, The total number of votes cast was calculated.
-![text](https://github.com/carrotdip/election-analysis/blob/85572a51651c6850fecee412fd204709fa1536f6/Screen%20Shot%202021-11-12%20at%209.27.58%20PM.png)
-![text](https://github.com/carrotdip/election-analysis/blob/85572a51651c6850fecee412fd204709fa1536f6/Screen%20Shot%202021-11-12%20at%209.28.09%20PM.png)
+![text](https://github.com/carrotdip/election-analysis/blob/85572a51651c6850fecee412fd204709fa1536f6/Screen%20Shot%202021-11-12%20at%209.27.58%20PM.png)\
+![text](https://github.com/carrotdip/election-analysis/blob/85572a51651c6850fecee412fd204709fa1536f6/Screen%20Shot%202021-11-12%20at%209.28.09%20PM.png)\
 ### A list of candidates and their total vote counts was then created and stored in a dictionary. This was done by looping through the data, and creating a list of unique candidate names, and then counting each time that name appeared. 
 PHOTOS
 ###The percentage of votes of each candidate were then calculated to determine the winner of the election based on popular vote. This was done by dividing the candidate votes by the total votes and multiplying by 100.
