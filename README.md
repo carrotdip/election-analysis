@@ -8,7 +8,7 @@
 ![text](https://github.com/carrotdip/election-analysis/blob/ef125b66d415657d65b68664b46a37c69f6b9588/Screen%20Shot%202021-11-12%20at%209.33.16%20PM.png)\
 ![text](https://github.com/carrotdip/election-analysis/blob/ef125b66d415657d65b68664b46a37c69f6b9588/Screen%20Shot%202021-11-12%20at%209.33.36%20PM.png)\
 ### The percentage of votes of each candidate were then calculated to determine the winner of the election based on popular vote. This was done by dividing the candidate votes by the total votes and multiplying by 100.
-PHOTO
+![text](https://github.com/carrotdip/election-analysis/blob/37140435c493d1d53831c80585c843991c228976/Screen%20Shot%202021-11-12%20at%209.36.02%20PM.png)\
 ### The election committee was also interested in the turnout rates per county. A list of counties and their total vote counts were determined with the same methods for the candidates. 
 PHOTOS
 ### The percentages of the county votes were also calculated with the same process as previously described to determine the county with the highest turnout.
