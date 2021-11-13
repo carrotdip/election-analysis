@@ -31,4 +31,4 @@
 - Software: Python 3.6.7, Visual Studio Code 1.62.1
 
 ## Election-Audit Summary
-### The script used in this analysis can easily be modified to determine the results of any election. 
+### The script used in this analysis can easily be modified to determine the results of any election. Many aspects of the code can be rewritten to include more forms of analysis. For example, for a national election, the turnout by state can also be determined by re-writing the code used to form the list of unique candidates and counties, and subsequently determining the vote count for each state. If the data allows, the color of the state based on political preference (Republican - red, Democratic - blue) can also be determined by using nested for loops counting the votes based on politic preference by state, and subsequently modifying the decision statements used in this analysis to determine the color of the state.
