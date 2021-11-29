@@ -15,6 +15,7 @@ The election committee was also interested in the turnout rates per county. A li
 The percentages of the county votes were also calculated with the same process as previously described to determine the county with the highest turnout.\
 ![text](https://github.com/carrotdip/election-analysis/blob/076347881ad2d17832e96a41168d07ee5ce7bcb0/Screen%20Shot%202021-11-12%20at%209.39.38%20PM.png)
 ## Election-Audit Results
+![text](https://github.com/carrotdip/election-analysis/blob/main/election-analysis%20-Deliverable%201.png)\
 - The analysis of the data set showed that there were a total of 369,711 votes cast. The complete list of candidates included Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 - Charles Casper Stockham received 85,213 votes, which was 23.0% of the total votes. 
 - Diana DeGette received 272,892 votes, making up 73.8% of the total votes. 
